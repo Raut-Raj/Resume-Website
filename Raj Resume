@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+        h1, h2 { color: #4CAF50; }
+        section { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Raj Raut</h1>
+    <p>Email: raj.raut@example.com </p>
+    <p>Phone: +91-1234567890 </p>
+    <p>Address: Ahilyanagar, Maharashtra</p>
+
+    <section>
+        <h2>Summary</h2>
+        <ul>
+            <li>Aspiring Data Science with Capabilities in Python, SQL, Machine Learning, and Power BI.Skilled in
+                data visualization and predictive modeling. Seeking opportunities to apply technical expertise to
+                deliver actionable insights and drive impactful solutions. </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Academic Details</h2>
+        <ul>
+            <li>BSC in Data Science - New Arts, Commerce and Science College, Ahilyanagar </li>
+            <li>12th Grade - 73.33%</li>
+            <li>10th Grade - 75.20%</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>
+                <strong>Technical Skill:</strong> Python, Postgress SQL, Tablue, PowerBi, Excel</li> 
+            <li>
+            <strong>Soft Skill: </strong>Communication, Proble-Solving, Creative Thinking, Time Management and Organization </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <strong>Machine Learning:</strong> Bangalore-House-Price-Prediction<br>
+                <strong>Description:</strong> Built an ML model to predict Bangalore house prices using features like location, size, and bedrooms. This project involved data preprocessing, regression algorithms, and trend analysis for accurate predictions.<br>
+                <strong>Problem Solved:</strong> Provided accurate price estimates to aid buyers, sellers, and real estate analysis.
+            </li> <br>
+            <li>
+                <strong>Power BI:</strong> Insurance Campaign Result Dashboard<br>
+                <strong>Description:</strong> Designed a Power BI dashboard to analyze and visualize the results of an insurance campaign, providing insights into customer engagement, policy adoption rates, and campaign effectiveness. The dashboard includes key performance indicators, trends, and demographic breakdowns.<br>
+                <strong>Problem Solved:</strong> Enabled data-driven decision-making by offering actionable insights into campaign success and areas for improvement.
+            </li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Certification</h2>
+        <ul>
+            <li>
+                <strong>IBM Data Science Professional Certificate</strong><br>
+                    1: Data Science Methodology<br>
+                    2: Python Project for Data Science<br>
+                    3: Data Analysis with Python<br>
+                    4: Data Visualization with Python <br>
+                    5: Machine Learning with Python<br>
+                    6: Generative AI<br>
+        </li>
+        </ul>
+    </section>
+    
+    
+
+    <section>
+        <h2>Declaration</h2>
+        <p>I hereby declare that the above-mentioned information is correct to the best of my knowledge.</p>
+        <p>Place: Ahilyanagar</p>
+        <p>Date: December 3, 2024</p>
+    </section>
+</body>
+</html>
